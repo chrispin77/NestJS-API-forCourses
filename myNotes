@@ -1,0 +1,5 @@
+*mains.ts : is the entry point of the application.
+*app.module.ts: contains the implementation of the application's root module.
+*app.controller.ts: contains the implementation of a basic NestJS controller with just one route. 
+*app.service.ts: contains a basic service implementation.
+*app.controller.spec.ts: testing file for controller. 
